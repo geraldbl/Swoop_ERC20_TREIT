@@ -8,3 +8,6 @@
 ### Approve Transfer Request by Swoop
 
 # Identity and Claims with ERC 725 and ERC 735 - 
+> https://hackernoon.com/first-impressions-with-erc-725-and-erc-735-identity-and-claims-4a87ff2509c9
+> https://medium.com/@kctheservant/a-companion-guide-to-first-impressions-with-erc-725-and-erc-735-identity-and-claims-part-1-51b53603cfc0
+
